@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publicationYear": 1960,
+        "coverImage": "https://example.com/mockingbird.jpg"
+    },
+    {
+        "id": 2,
+        "title": "1984",
+        "author": "George Orwell", 
+        "publicationYear": 1949,
+        "coverImage": "https://example.com/1984.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publicationYear": 1813,
+        "coverImage": "https://example.com/pride-prejudice.jpg"
+    },
+    {
+        "id": 4,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publicationYear": 1925,
+        "coverImage": "https://example.com/gatsby.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "publicationYear": 1932,
+        "coverImage": "https://example.com/brave-new-world.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "publicationYear": 1851,
+        "coverImage": "https://example.com/moby-dick.jpg"
+    }
+]
